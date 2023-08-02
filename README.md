@@ -1,2 +1,2 @@
 # Front-end
-clone of uk based website only forntend
+front-end colne of a website using html css js and  little gsap
